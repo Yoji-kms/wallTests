@@ -24,5 +24,4 @@ data class Post(
     val markedAsAds: Boolean = false,
     val isFavourite: Boolean = false,
     val postponedId: Int = 0,
-    val attached: String?
 )
